@@ -1,0 +1,38 @@
+
+/* types */
+h1 {
+    background-color: rgb(255, 0, 0);
+    font-size: 60px;
+}
+
+img {
+    width: 240px;
+    height: 200px;
+}
+
+
+/* classes */
+.recipe-links {
+    background-color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+
+.recipe-page {
+    background-color: lime;
+    font-size: 30px;
+}
+
+.recipe-page .recipe-header1 {
+    background-color: rgba(64, 91, 247, 0.699);
+}
+
+/* ids */
+#chef {
+    width: 500px;
+    height: auto;
+}
+
+#index-html {
+    background-color: rgb(163, 155, 149);
+    text-align: center;
+}
